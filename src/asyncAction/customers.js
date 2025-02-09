@@ -1,4 +1,3 @@
-
 import { addManyCustomersAction } from "../store/customerReduser"
 
 export const fetchCustomers = () => {
